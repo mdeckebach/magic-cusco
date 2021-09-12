@@ -1,0 +1,40 @@
+#bs-navbar {
+    flex-grow: 0;
+}
+
+#contact-banner {
+    background-color: #01a956;
+    color: #fff;
+}
+
+#logo {
+    max-height: 2em;
+    margin-right: 1em;
+}
+
+#banner {
+    position: relative;
+}
+
+#tour-options {
+    margin: 0.5em;
+}
+
+.banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    width: fit-content;
+}
+
+.hover-shadow:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #75dba8 !important;
+}
+
+h1[itemprop="headline name"] {
+    visibility: hidden;
+    max-height: 0em;
+ }

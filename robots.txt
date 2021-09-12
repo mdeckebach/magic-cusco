@@ -1,0 +1,4 @@
+Sitemap: https://magiccusco.com/sitemapindex.xml
+
+User-Agent: *
+Host: magiccusco.com
