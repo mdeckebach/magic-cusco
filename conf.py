@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Oscar Velasquez Caro"  # (translatable)
-BLOG_TITLE = "Magic Cusco"  # (translatable)
+BLOG_TITLE = "MagicCusco"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://magiccusco.com/"
@@ -25,7 +25,7 @@ SITE_URL = "https://magiccusco.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://magiccusco.com/"
 BLOG_EMAIL = "magiccusco@gmail.com"
-BLOG_DESCRIPTION = "Magic Cusco's website"  # (translatable)
+BLOG_DESCRIPTION = "MagicCusco's website"  # (translatable)
 
 # Nikola is multilingual!
 #
